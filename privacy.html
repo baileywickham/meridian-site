@@ -23,7 +23,7 @@
   <h2>Data Meridian accesses</h2>
   <p>When you sign in with Google, Meridian requests these permissions:</p>
   <ul>
-    <li><strong>Gmail (read-only)</strong>: to list and display your messages, threads and labels. Meridian cannot send, delete, archive or modify your mail in Google.</li>
+    <li><strong>Gmail</strong>: to list and display your messages, threads and labels (read), and, on the Mac, to send mail you write and to change labels on your conversations (archive, mark read or unread, star, move to Trash and back, snooze). Meridian never deletes mail permanently and cannot change your Gmail settings, filters or forwarding.</li>
     <li><strong>Google Calendar</strong>: to display your calendars and events, and to create, edit or delete events when you ask it to.</li>
     <li><strong>Google Contacts (read-only)</strong>: to show names and photos for the people in your mail and calendar.</li>
     <li><strong>Basic profile (email, name)</strong>: to identify which account is signed in.</li>
@@ -37,6 +37,9 @@
     <li><strong>AI features (optional).</strong> Smart features such as summaries and triage run on your device by default. If you choose to connect Claude (Anthropic) or a custom AI server for an account, the text of messages you ask it to process is sent to that provider using your own API key, under that provider's terms. This is off unless you turn it on.</li>
     <li><strong>Remote images.</strong> Images in emails are blocked by default. If you choose to load them, they are fetched from the sender's servers, or through an image proxy when one is configured, so the sender does not see your IP address.</li>
   </ul>
+
+  <h2>Sending and changing mail</h2>
+  <p>Nothing is sent or changed automatically. A message leaves only after you press Send and an undo window you choose (5 to 30 seconds) has passed. Each change Meridian makes in your Gmail or Google Calendar is recorded on your device (time, account, kind of change and conversation or event id, never the message content), so you can review it. The iPhone app does not send mail or change it.</p>
 
   <h2>What Meridian does not do</h2>
   <ul>
