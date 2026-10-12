@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Meridian</title>
+    <link>https://baileywickham.com/meridian-site/</link>
+    <description>Meridian updates</description>
+    <language>en</language>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Mon, 12 Oct 2026 15:39:40 GMT</pubDate>
+      <sparkle:version>293</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;First public release: a notarized download for Mac, with automatic updates.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.2.0/Meridian-0.2.0.dmg" type="application/octet-stream" length="10090008" sparkle:edSignature="m8kimADS0mUMQ8iRdHWE7L5TQk1W8KntiUiOkRYCK+JoYMmZNXUX8ER4g7Yis+TCT6x/5VZx0JJbnx0UyvjnCQ==" />
+    </item>
+  </channel>
+</rss>
