@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.3.0</title>
+      <pubDate>Mon, 12 Oct 2026 21:45:53 GMT</pubDate>
+      <sparkle:version>377</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Identity from Google only (colleague calendars are read-only, RSVPs only as you); safer sends (no double sends, may-have-sent checked by send id and Gmail history); snooze, invite card and recurring-event fixes; calendar disk cache and refresh; faster launch and triage; a sign-in welcome screen instead of sample data.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.3.0/Meridian-0.3.0.dmg" type="application/octet-stream" length="10331806" sparkle:edSignature="yfJJMLw2dbFuAyDyJjqmsp2XN8bDKUIWKGsMYXdCtNBYugoRuVkF8vcO7Sr8R7kvGPxK9rdMvccxjJFlwi+LAA==" />
+    </item>
+    <item>
       <title>0.2.0</title>
       <pubDate>Mon, 12 Oct 2026 15:39:40 GMT</pubDate>
       <sparkle:version>293</sparkle:version>
