@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.5.0</title>
+      <pubDate>Tue, 13 Oct 2026 17:15:10 GMT</pubDate>
+      <sparkle:version>448</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Live calendar updates: your calendar refreshes the moment it changes elsewhere (with instant notifications on). Invitations whose event was deleted now say so and no longer offer Accept / Maybe / Decline, and invite cards re-check with Google when you open the email.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.5.0/Meridian-0.5.0.dmg" type="application/octet-stream" length="10412412" sparkle:edSignature="hKBAvE0yYpu5HTYz++oMPh1lkdnXot+VvskcAZVB1oJJ6lslR0L3VosiUN64yKYE9UxMh/UwYcCV8YWEEp/3CA==" />
+    </item>
+    <item>
       <title>0.4.0</title>
       <pubDate>Tue, 13 Oct 2026 04:52:02 GMT</pubDate>
       <sparkle:version>445</sparkle:version>
