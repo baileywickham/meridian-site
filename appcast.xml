@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.5.1</title>
+      <pubDate>Tue, 13 Oct 2026 19:47:46 GMT</pubDate>
+      <sparkle:version>451</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fixes for mail and calendar edge cases: Reply honours Reply-To and never answers your own drafts; deleting one message no longer makes a whole thread look trashed; a failing calendar keeps its events; moving a repeating series to another day moves every occurrence; guests' notes and plus-ones survive edits; Google Calendar descriptions show as plain text; better handling of attached messages, inline attachments, international charsets and format=flowed mail.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.5.1/Meridian-0.5.1.dmg" type="application/octet-stream" length="10468280" sparkle:edSignature="x2Fh1I5IYgAQ3Vrf/sDKar3W11p1J1VzG87UIH+YBTLfxDX41+Si4oEJbXbU2NXmB+jlJ/xVFoh4UVMzn1+yDQ==" />
+    </item>
+    <item>
       <title>0.5.0</title>
       <pubDate>Tue, 13 Oct 2026 17:15:10 GMT</pubDate>
       <sparkle:version>448</sparkle:version>
