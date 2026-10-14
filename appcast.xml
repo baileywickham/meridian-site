@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.1</title>
+      <pubDate>Wed, 14 Oct 2026 15:14:04 GMT</pubDate>
+      <sparkle:version>461</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Browsing mail no longer marks threads read: j/k, arrows, clicks and archive only preview. Return, o or double-click opens a thread and marks it read.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.1/Meridian-0.6.1.dmg" type="application/octet-stream" length="10443969" sparkle:edSignature="goy6yx0t2sjglLGUfvAsOOPoB5mp637qMCO+rrzm1NmY3GDJk24NYsGFRcuVYNqWSgIZjrfmZ4N59zUeSIaiCw==" />
+    </item>
+    <item>
       <title>0.6.0</title>
       <pubDate>Wed, 14 Oct 2026 06:20:47 GMT</pubDate>
       <sparkle:version>458</sparkle:version>
