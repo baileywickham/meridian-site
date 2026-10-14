@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.2</title>
+      <pubDate>Wed, 14 Oct 2026 17:39:11 GMT</pubDate>
+      <sparkle:version>464</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The send toast now reads "Sent · Undo" (no countdown); the Undo goes when the window ends. Toasts no longer truncate Undo. To/Cc suggestions include your own addresses.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.2/Meridian-0.6.2.dmg" type="application/octet-stream" length="10451974" sparkle:edSignature="wMvlJDqMoD3d2k6xUx4ErrWa9UsKZS3IAt6gmKdU8QuKHHLWvybaMe5QtbkKZwMu+9nAo6VE5vTMVqbpOQGDCQ==" />
+    </item>
+    <item>
       <title>0.6.1</title>
       <pubDate>Wed, 14 Oct 2026 15:14:04 GMT</pubDate>
       <sparkle:version>461</sparkle:version>
