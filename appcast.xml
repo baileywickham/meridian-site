@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.0</title>
+      <pubDate>Wed, 14 Oct 2026 06:20:47 GMT</pubDate>
+      <sparkle:version>458</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Mail is marked read only when you open a thread (Return, o or double-click); browsing the list just previews. While a thread is open, arrows and space scroll it, n/p step through its messages, and the list highlight turns grey. Fixes: a newer toast no longer takes away a pending send's Undo, and each Undo button undoes its own action.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.0/Meridian-0.6.0.dmg" type="application/octet-stream" length="10490327" sparkle:edSignature="Un6onlIPWJZ574fIKc1o9qM+rcHNqFtCT06nVdk0q5yLo0T6DIIoeG5j+yIH22yE9fA1zU/+UCSgC6Y1TJ59Dg==" />
+    </item>
+    <item>
       <title>0.5.1</title>
       <pubDate>Tue, 13 Oct 2026 19:47:46 GMT</pubDate>
       <sparkle:version>451</sparkle:version>
