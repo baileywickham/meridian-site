@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.15</title>
+      <pubDate>Fri, 16 Oct 2026 19:50:30 GMT</pubDate>
+      <sparkle:version>497</sparkle:version>
+      <sparkle:shortVersionString>0.6.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Meeting joins, calendar links and links in emails now open in the Chrome profile signed into that account (personal meetings open in your personal profile). Fixes a crash when cancelling Google sign-in while adding an account.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.15/Meridian-0.6.15.dmg" type="application/octet-stream" length="10559359" sparkle:edSignature="2DUu7fNiM+p/QTKMUXl0J4DKtgyFoCFiBWC/TZZPxboQcF0i0ceUU1wHDGqhcK964Sl1CuDu4bmYQ7BbNV/nBQ==" />
+    </item>
+    <item>
       <title>0.6.14</title>
       <pubDate>Fri, 16 Oct 2026 18:51:46 GMT</pubDate>
       <sparkle:version>495</sparkle:version>
