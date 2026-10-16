@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.13</title>
+      <pubDate>Fri, 16 Oct 2026 18:34:36 GMT</pubDate>
+      <sparkle:version>491</sparkle:version>
+      <sparkle:shortVersionString>0.6.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Mail settings no longer overlap; Esc closes Settings; Private Cloud Compute shows as unavailable when this build isn't enabled for it&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.13/Meridian-0.6.13.dmg" type="application/octet-stream" length="10430402" sparkle:edSignature="P+Ng4V+g4rN42zuwiIK6LNbwLEOs3fSmg4wvL/Sk13KJ5aQ9X5lK5bSuAflFhjPjU0avDN5FKCbGqjKAL2XwBg==" />
+    </item>
+    <item>
       <title>0.6.12</title>
       <pubDate>Fri, 16 Oct 2026 16:50:57 GMT</pubDate>
       <sparkle:version>489</sparkle:version>
