@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.7</title>
+      <pubDate>Fri, 16 Oct 2026 04:24:41 GMT</pubDate>
+      <sparkle:version>479</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Inbox labels load instantly from the mail cache. On iPhone, app data now stays private to the app (only the widget and notification files are shared); you may need to sign in again.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.7/Meridian-0.6.7.dmg" type="application/octet-stream" length="10433624" sparkle:edSignature="CUXN37LkITNESEmnHphVP5M4Rocu+UECNZ7GNa8t+qpZXwQuXKPGGeAn3h5ldyEWCsptq/8ZvMIS+XKgCOQZBQ==" />
+    </item>
+    <item>
       <title>0.6.6</title>
       <pubDate>Fri, 16 Oct 2026 04:02:44 GMT</pubDate>
       <sparkle:version>476</sparkle:version>
