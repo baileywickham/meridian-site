@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.14</title>
+      <pubDate>Fri, 16 Oct 2026 18:51:46 GMT</pubDate>
+      <sparkle:version>495</sparkle:version>
+      <sparkle:shortVersionString>0.6.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Under the hood: Meridian now builds in Swift 6 with complete data-race checking, and shared state that background work touches is lock-protected by the compiler.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.14/Meridian-0.6.14.dmg" type="application/octet-stream" length="10560430" sparkle:edSignature="grOnhHwzncAfrehYy91DShW03cr0dyq82mfSerMLB0YwFihsntMGJ64mpDNzdihnzzuVIz/64ja/BX4CBuQuAw==" />
+    </item>
+    <item>
       <title>0.6.13</title>
       <pubDate>Fri, 16 Oct 2026 18:34:36 GMT</pubDate>
       <sparkle:version>491</sparkle:version>
