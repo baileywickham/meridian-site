@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.17</title>
+      <pubDate>Fri, 16 Oct 2026 21:58:33 GMT</pubDate>
+      <sparkle:version>501</sparkle:version>
+      <sparkle:shortVersionString>0.6.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Mail's agenda rail now jumps to the day an email proposes — "can you do Sunday?" shows your Sunday, with the proposed time marked.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.17/Meridian-0.6.17.dmg" type="application/octet-stream" length="10623005" sparkle:edSignature="EtdhI5404kdDg8pPPoZ2uJNdxoZdstan9miEGCDFUl16U3wWjG7bWrVAyWeDx6+E4l3c660C/wHIlYo2cYQVDg==" />
+    </item>
+    <item>
       <title>0.6.16</title>
       <pubDate>Fri, 16 Oct 2026 21:51:14 GMT</pubDate>
       <sparkle:version>499</sparkle:version>
