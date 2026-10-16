@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.12</title>
+      <pubDate>Fri, 16 Oct 2026 16:50:57 GMT</pubDate>
+      <sparkle:version>489</sparkle:version>
+      <sparkle:shortVersionString>0.6.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;To respond errs on the side of telling you: review and signature requests, assignments and comment questions now show up.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.12/Meridian-0.6.12.dmg" type="application/octet-stream" length="10429624" sparkle:edSignature="wXiazG/ct2vxd49espVlQKVJlNUzKn+Ryjap+uWZJsAoKvke4/TXFBNjWtNfAnXgEdXUG4XFIglcw/qXX2YBCQ==" />
+    </item>
+    <item>
       <title>0.6.11</title>
       <pubDate>Fri, 16 Oct 2026 16:44:44 GMT</pubDate>
       <sparkle:version>487</sparkle:version>
