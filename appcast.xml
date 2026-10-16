@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.9</title>
+      <pubDate>Fri, 16 Oct 2026 15:20:52 GMT</pubDate>
+      <sparkle:version>483</sparkle:version>
+      <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;A larger, easier-to-read event editor with aligned rows.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.9/Meridian-0.6.9.dmg" type="application/octet-stream" length="10427760" sparkle:edSignature="k1WkWGozmvFWs/Q0UfUV1fQJm6iEpzGzqXA+XD0Sp9Mx4uLrQZnbRHn4U42any9SVPfpEeU0refM/Pt7x30zCw==" />
+    </item>
+    <item>
       <title>0.6.8</title>
       <pubDate>Fri, 16 Oct 2026 15:07:03 GMT</pubDate>
       <sparkle:version>481</sparkle:version>
