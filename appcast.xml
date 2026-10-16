@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.6</title>
+      <pubDate>Fri, 16 Oct 2026 04:02:44 GMT</pubDate>
+      <sparkle:version>476</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Faster summaries after relaunch: AI results are kept with each account's mail cache and refreshed only when a thread actually changes. Clear cache and sign-out remove them too.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.6/Meridian-0.6.6.dmg" type="application/octet-stream" length="10431644" sparkle:edSignature="E0c1ag24LBaf+IbQdXCj/pZ6NXEpEyp9MpRks60yUeH9XJXe/NAEOTHLIVlcmpMXEC07Sl+dVn7oU1H6ubMyBw==" />
+    </item>
+    <item>
       <title>0.6.5</title>
       <pubDate>Fri, 16 Oct 2026 00:50:13 GMT</pubDate>
       <sparkle:version>473</sparkle:version>
