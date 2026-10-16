@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.5</title>
+      <pubDate>Fri, 16 Oct 2026 00:50:13 GMT</pubDate>
+      <sparkle:version>473</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Apple Intelligence summaries and triage actually run again (they were stuck on Basic). Basic summaries no longer repeat the email or ask about events that are over.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.5/Meridian-0.6.5.dmg" type="application/octet-stream" length="10429548" sparkle:edSignature="MTgWlAu2s02NPBA8DJT3g8GmflEsrrkpzG+/M/00De+X+jqsX7DEtVDaBPFFeD2odek2evqtziioP7pd1VCICA==" />
+    </item>
+    <item>
       <title>0.6.4</title>
       <pubDate>Thu, 15 Oct 2026 23:37:43 GMT</pubDate>
       <sparkle:version>470</sparkle:version>
