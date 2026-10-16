@@ -16,7 +16,7 @@
   </nav>
 
   <h1>Privacy policy</h1>
-  <p class="muted">Last updated October 13, 2026</p>
+  <p class="muted">Last updated October 15, 2026</p>
 
   <p>Meridian is a mail and calendar app for Mac and iPhone. It is designed so that your mail and calendar stay on your own devices. This policy explains what data Meridian accesses, where it goes, and how to remove it.</p>
 
@@ -34,7 +34,7 @@
     <li><strong>On your device.</strong> Meridian downloads your mail, calendar and contacts directly from Google to your Mac or iPhone and caches them there. Sign-in tokens are stored in your device's Keychain. Meridian does not operate a server that receives, stores or reads your mail, calendar or contacts.</li>
     <li><strong>Your iCloud account.</strong> If iCloud is enabled, Meridian syncs its own settings and state (for example snoozes, account colors, hidden calendars and preferences) between your devices through your private iCloud database. This never includes the contents of your email.</li>
     <li><strong>New-mail notifications.</strong> While new-mail notifications are on (you can turn them off in Settings), Meridian registers your device with a small relay service operated by the developer. The relay stores your Google account email address, your device's Apple push token, the platform and app version, and a random secret used to unregister. Gmail tells the relay only that your mailbox changed, never what changed. The relay then sends a silent push to your device, and your device fetches the new mail directly from Google. With the same setting on, Google Calendar also tells the relay when one of your calendars changes (never what changed), so your device can update your calendar right away; for each calendar it watches, the relay keeps a random identifier, a fingerprint of a random secret, and when the watch expires (after about a week), and never your events. Signing out of an account removes its registration and its calendar watches.</li>
-    <li><strong>AI features (optional).</strong> Smart features such as summaries and triage run on your device by default. If you choose to connect Claude (Anthropic) or a custom AI server for an account, the text of messages you ask it to process is sent to that provider using your own API key, under that provider's terms. This is off unless you turn it on.</li>
+    <li><strong>AI features.</strong> Smart features such as summaries and triage run on your device by default, using Apple Intelligence where it's available. If you choose a different AI engine for an account (Apple Private Cloud Compute, Claude from Anthropic with your own API key, or a custom AI server), the text of the messages it processes is sent to that provider, under that provider's terms. Nothing is sent to another provider unless you turn it on for that account.</li>
     <li><strong>Remote images.</strong> Images in emails are blocked by default. If you choose to load them, they are fetched from the sender's servers, or through an image proxy when one is configured, so the sender does not see your IP address.</li>
   </ul>
 
