@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.29</title>
+      <pubDate>Sat, 17 Oct 2026 15:15:52 GMT</pubDate>
+      <sparkle:version>536</sparkle:version>
+      <sparkle:shortVersionString>0.6.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Images in mail now load on iPhone: the Mac shares its private image proxy with your other devices over iCloud.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.29/Meridian-0.6.29.dmg" type="application/octet-stream" length="10764828" sparkle:edSignature="36a6r7RQrvPn5PWi4wi/jtmeBClR/ZnwYTTnTUGY3z/6ZQ17RZ5n/aY+s7utjV9b2dHc4chlpR2z0VZH/rc6DQ==" />
+    </item>
+    <item>
       <title>0.6.28</title>
       <pubDate>Sat, 17 Oct 2026 05:45:04 GMT</pubDate>
       <sparkle:version>532</sparkle:version>
