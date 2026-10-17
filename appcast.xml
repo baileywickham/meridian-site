@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.19</title>
+      <pubDate>Sat, 17 Oct 2026 03:26:41 GMT</pubDate>
+      <sparkle:version>507</sparkle:version>
+      <sparkle:shortVersionString>0.6.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Opening an earlier message in a conversation now slides the rest down smoothly instead of hopping.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.19/Meridian-0.6.19.dmg" type="application/octet-stream" length="10638552" sparkle:edSignature="E8AIo2bfMrmHJm43KOCNUlSAb7N2Pe03RHjix6m08nbDOBN+XuUpBYtWLISZ1N+Pwok75O7Ugi9yeASiRg8TBQ==" />
+    </item>
+    <item>
       <title>0.6.18</title>
       <pubDate>Sat, 17 Oct 2026 03:05:31 GMT</pubDate>
       <sparkle:version>505</sparkle:version>
