@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.23</title>
+      <pubDate>Sat, 17 Oct 2026 04:44:58 GMT</pubDate>
+      <sparkle:version>518</sparkle:version>
+      <sparkle:shortVersionString>0.6.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Click a date in a summary to see that day in the agenda, and add the event right from the sidebar without leaving Mail. The selected email stays highlighted after archiving the one below it.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.23/Meridian-0.6.23.dmg" type="application/octet-stream" length="10729299" sparkle:edSignature="ov4Wqn2X3VsfTbgf0UuritDRNf7RSAF6tlD/RpR/FMXTganh+o+joghpyzRZychxCHMsbgL02lshuQKvvsP8Dg==" />
+    </item>
+    <item>
       <title>0.6.22</title>
       <pubDate>Sat, 17 Oct 2026 04:27:22 GMT</pubDate>
       <sparkle:version>515</sparkle:version>
