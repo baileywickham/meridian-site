@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.22</title>
+      <pubDate>Sat, 17 Oct 2026 04:27:22 GMT</pubDate>
+      <sparkle:version>515</sparkle:version>
+      <sparkle:shortVersionString>0.6.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Replies are written right in the thread, like Gmail: the reply box sits under the last message, matches its width and style, and scrolls into view when you open it.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.22/Meridian-0.6.22.dmg" type="application/octet-stream" length="10672404" sparkle:edSignature="MrLIWhQfzlj6V6i2nkhxFYk5YwRgkv4smUjlXP6ZxrVs9aF0As1Hwms5AQuqeiYHzzFpDNqHdrwUdWNqYwc2Dg==" />
+    </item>
+    <item>
       <title>0.6.21</title>
       <pubDate>Sat, 17 Oct 2026 04:22:25 GMT</pubDate>
       <sparkle:version>513</sparkle:version>
