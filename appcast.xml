@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.25</title>
+      <pubDate>Sat, 17 Oct 2026 05:21:46 GMT</pubDate>
+      <sparkle:version>525</sparkle:version>
+      <sparkle:shortVersionString>0.6.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Apple Intelligence now summarizes emails it used to refuse as sensitive. Calendar invites you've already answered no longer sit in To respond. The reply composer's recipients line up with its header.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.25/Meridian-0.6.25.dmg" type="application/octet-stream" length="10738410" sparkle:edSignature="DwcN91gAXCYq4Am+FY/TCNzXpkPMzOkQxRLtrBpN6KtFanEwsVxcBHuZKhmtKdwoWb3awFHOFT+UVp03bnFTCQ==" />
+    </item>
+    <item>
       <title>0.6.24</title>
       <pubDate>Sat, 17 Oct 2026 04:54:58 GMT</pubDate>
       <sparkle:version>520</sparkle:version>
