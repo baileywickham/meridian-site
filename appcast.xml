@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.27</title>
+      <pubDate>Sat, 17 Oct 2026 05:33:45 GMT</pubDate>
+      <sparkle:version>530</sparkle:version>
+      <sparkle:shortVersionString>0.6.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Superhuman replies now collapse their quoted history. New accounts learn from the last 30 days of mail without filling To respond with old threads.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.27/Meridian-0.6.27.dmg" type="application/octet-stream" length="9712641" sparkle:edSignature="NayRNSvXUDIhEJselO5e7rlAPzkjsA5xxsMXegFURpAfWFgYBK2pDmEuyziTN2BROQiUsWLsrKty/2xuBm9dCg==" />
+    </item>
+    <item>
       <title>0.6.26</title>
       <pubDate>Sat, 17 Oct 2026 05:25:53 GMT</pubDate>
       <sparkle:version>527</sparkle:version>
