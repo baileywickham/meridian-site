@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.26</title>
+      <pubDate>Sat, 17 Oct 2026 05:25:53 GMT</pubDate>
+      <sparkle:version>527</sparkle:version>
+      <sparkle:shortVersionString>0.6.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Expanding a message no longer makes the thread jump when scroll bars are set to always show.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.26/Meridian-0.6.26.dmg" type="application/octet-stream" length="10739439" sparkle:edSignature="fvuoOSqPWBzb2knKJM3Hlem5np42zQYlWRv3bmtjCLGBgJPSEPBEkqxNMG9Hh4ej/8kdgvxCQLXQYiN+96uUAg==" />
+    </item>
+    <item>
       <title>0.6.25</title>
       <pubDate>Sat, 17 Oct 2026 05:21:46 GMT</pubDate>
       <sparkle:version>525</sparkle:version>
