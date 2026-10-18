@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.30</title>
+      <pubDate>Sun, 18 Oct 2026 01:05:23 GMT</pubDate>
+      <sparkle:version>539</sparkle:version>
+      <sparkle:shortVersionString>0.6.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Event alerts follow your Google Calendar notification settings on Mac and iPhone. The agenda rail now finds the meeting a thread is actually arranging: confirmed times take their day from earlier proposals, declines and cancellations are respected, and time zones and casual times like 530pm are understood.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.30/Meridian-0.6.30.dmg" type="application/octet-stream" length="10822573" sparkle:edSignature="t8/gl95f7tnypHALjwYY+GXBVd05xC+k121VAYJfylSTYCH/yAL3qwWenvzKIa3byBL/IskrN2U3KJm+9RyODQ==" />
+    </item>
+    <item>
       <title>0.6.29</title>
       <pubDate>Sat, 17 Oct 2026 15:15:52 GMT</pubDate>
       <sparkle:version>536</sparkle:version>
