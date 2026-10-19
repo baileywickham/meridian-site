@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.32</title>
+      <pubDate>Mon, 19 Oct 2026 20:25:30 GMT</pubDate>
+      <sparkle:version>556</sparkle:version>
+      <sparkle:shortVersionString>0.6.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The menu bar shows the next event all day, not just within 4 hours. ` cycles the inbox tabs (⇧` goes back). Settings shows whether links can open in each account's Chrome profile, with an Allow… button when macOS blocks it.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.32/Meridian-0.6.32.dmg" type="application/octet-stream" length="10897931" sparkle:edSignature="bi/DFL+oTJrupbJYmVth0nJG5eqT8Ma60EuX5e/PKZvrgo+bdhTnjU5u0AbAZfAjB+eAYeXD7+4eZAxN48PfAg==" />
+    </item>
+    <item>
       <title>0.6.31</title>
       <pubDate>Mon, 19 Oct 2026 04:59:51 GMT</pubDate>
       <sparkle:version>549</sparkle:version>
