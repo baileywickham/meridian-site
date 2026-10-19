@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.31</title>
+      <pubDate>Mon, 19 Oct 2026 04:59:51 GMT</pubDate>
+      <sparkle:version>549</sparkle:version>
+      <sparkle:shortVersionString>0.6.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Suggested events now cover multi-day ranges: an offsite on Oct 20–22, a Thursday-through-Sunday trip or a hotel stay becomes one event across those days, and a meeting proposed inside a trip, a narrowed day or a cancellation wins over the range. The month view draws multi-day events as one bar, X multi-selects threads like Gmail, agenda rail events open their details, summaries no longer offer to add an event an invite already covers, calendar write prompts are no longer hidden behind the event popover, and images load by default.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.31/Meridian-0.6.31.dmg" type="application/octet-stream" length="10891532" sparkle:edSignature="a7mrutPCJusgWw+nNG9djkiNYmSZFNzNCjOzGi2/25R9crjQpR7oFMrwT7jtgZWo9nvebAYK385aEtvdgRUvCw==" />
+    </item>
+    <item>
       <title>0.6.30</title>
       <pubDate>Sun, 18 Oct 2026 01:05:23 GMT</pubDate>
       <sparkle:version>539</sparkle:version>
