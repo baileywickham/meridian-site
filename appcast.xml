@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.35</title>
+      <pubDate>Tue, 20 Oct 2026 21:09:53 GMT</pubDate>
+      <sparkle:version>573</sparkle:version>
+      <sparkle:shortVersionString>0.6.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Events in the week view can be dragged again, including a new event while its editor is open: the editor steps aside and comes back beside the moved event with what you typed. The thread you have selected keeps its Smart lane until you move off it, and a thread you archived no longer comes back after a refresh.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.35/Meridian-0.6.35.dmg" type="application/octet-stream" length="10945118" sparkle:edSignature="MNynMY8fEPN1cja76FenpQTW/r44UyFPWhAdcLXCdNZNBMqXaeQVXJ1Y4L1SA0Vg1/1HlPsOorTkmzLAsss/BQ==" />
+    </item>
+    <item>
       <title>0.6.34</title>
       <pubDate>Tue, 20 Oct 2026 03:52:23 GMT</pubDate>
       <sparkle:version>570</sparkle:version>
