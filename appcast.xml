@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.34</title>
+      <pubDate>Tue, 20 Oct 2026 03:52:23 GMT</pubDate>
+      <sparkle:version>570</sparkle:version>
+      <sparkle:shortVersionString>0.6.34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Meeting reminders are on by default, and Meridian asks for notification permission at launch so they arrive without finding the setting. Settings shows whether each account gets server notifications, with Set Up… to connect one. An invite you answer stays where it is in the list until you move on, instead of jumping away under you.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.34/Meridian-0.6.34.dmg" type="application/octet-stream" length="10935707" sparkle:edSignature="X5SBix6IwbPm4mTiSWGamPbFcb7vAQx3PjrZv32OYX6iO89TCL16l5mpQQ5xREsCENviuQDvi53sO3dd4vr/BQ==" />
+    </item>
+    <item>
       <title>0.6.33</title>
       <pubDate>Tue, 20 Oct 2026 01:11:31 GMT</pubDate>
       <sparkle:version>565</sparkle:version>
