@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.33</title>
+      <pubDate>Tue, 20 Oct 2026 01:11:31 GMT</pubDate>
+      <sparkle:version>565</sparkle:version>
+      <sparkle:shortVersionString>0.6.33</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;New mail summaries are ready when you open a thread instead of loading. Recipient suggestions put your own addresses you've written to first. Checked threads that leave the list are unchecked. Notifications never show a generic "New mail" placeholder. A notification's own timestamp no longer offers Add to calendar, and "tomorrow 4:30–5pm" proposes a 30-minute slot.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.33/Meridian-0.6.33.dmg" type="application/octet-stream" length="10909883" sparkle:edSignature="8z3vn9EFtT3T/OFGScRuO9ZHAvoNMIwOwbIWduf+Ds8vkMbMcDgUVDETJoE7XvkfyEII8ll/sm6aS8d6+hGVDA==" />
+    </item>
+    <item>
       <title>0.6.32</title>
       <pubDate>Mon, 19 Oct 2026 20:25:30 GMT</pubDate>
       <sparkle:version>556</sparkle:version>
