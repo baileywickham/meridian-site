@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.40</title>
+      <pubDate>Wed, 21 Oct 2026 21:03:47 GMT</pubDate>
+      <sparkle:version>601</sparkle:version>
+      <sparkle:shortVersionString>0.6.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Calendar event popovers open cleanly instead of jumping in size as they appear. The window drags from its header bars again, not just the thin strip at the top. The account switcher is tidier and closes as soon as you pick an account, without the whole window springing.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The window drags from its header bars again&lt;/li&gt;&lt;li&gt;The account switcher looks tidier and gets out of the way faster&lt;/li&gt;&lt;li&gt;Calendar event popovers open without jumping in size&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.40/Meridian-0.6.40.dmg" type="application/octet-stream" length="11190684" sparkle:edSignature="2JbijWNbDmKFW9RkG7JgVTBvsFhE8NyMZlN1vY464AEMnM21P3WIMiKWzw9nJKOiQjp8HrmV+U+J5qM6QTALBw==" />
+    </item>
+    <item>
       <title>0.6.39</title>
       <pubDate>Wed, 21 Oct 2026 19:06:44 GMT</pubDate>
       <sparkle:version>597</sparkle:version>
