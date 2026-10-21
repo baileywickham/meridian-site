@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.39</title>
+      <pubDate>Wed, 21 Oct 2026 19:06:44 GMT</pubDate>
+      <sparkle:version>597</sparkle:version>
+      <sparkle:shortVersionString>0.6.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Archiving, typing and the command palette are smoother, with less stalling when you clear mail quickly. New-mail notifications have an Archive button, so you can clear a message without opening the app. The Snoozed folder shows your snoozed conversations again, soonest first. Copy message link opens in the right Google account, and summaries skip plain invites, receipts and notices and focus on the latest state of a thread.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Archiving, typing and the command palette stop stalling the main thread&lt;/li&gt;&lt;li&gt;Summaries skip mail that says what it is in its subject and read small-model threads from the newest end&lt;/li&gt;&lt;li&gt;Perf tooling for layout work&lt;/li&gt;&lt;li&gt;Layout research write-up&lt;/li&gt;&lt;li&gt;The Snoozed folder lists your snoozed threads again on Gmail accounts&lt;/li&gt;&lt;li&gt;New-mail notifications get an Archive button on Mac and iPhone&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.39/Meridian-0.6.39.dmg" type="application/octet-stream" length="11137665" sparkle:edSignature="tKRLIe4BZikEhZtFV5iOUufLKguiRxc/Ir+CzK3GoIr+6mxzn6b17wn7tlgfoKu3eXrygPm3aCLgeVaNo0TtAQ==" />
+    </item>
+    <item>
       <title>0.6.38</title>
       <pubDate>Wed, 21 Oct 2026 04:48:03 GMT</pubDate>
       <sparkle:version>590</sparkle:version>
