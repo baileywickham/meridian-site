@@ -16,9 +16,9 @@
   </nav>
 
   <h1>Privacy policy</h1>
-  <p class="muted">Last updated October 15, 2026</p>
+  <p class="muted">Last updated October 20, 2026</p>
 
-  <p>Meridian is a mail and calendar app for Mac and iPhone. It is designed so that your mail and calendar stay on your own devices. This policy explains what data Meridian accesses, where it goes, and how to remove it.</p>
+  <p>Meridian is a mail and calendar app for Mac and iPhone. It is designed so that your mail and calendar stay on your own devices. This policy explains what data Meridian accesses, where it goes, how it is protected, and how to remove it.</p>
 
   <h2>Data Meridian accesses</h2>
   <p>When you sign in with Google, Meridian requests these permissions:</p>
@@ -40,6 +40,16 @@
 
   <h2>Sending and changing mail</h2>
   <p>Nothing is sent or changed automatically. A message leaves only after you press Send and an undo window you choose (5 to 30 seconds) has passed. Each change Meridian makes in your Gmail or Google Calendar is recorded on your device (time, account, kind of change and conversation or event id, never the message content), so you can review it. The iPhone app does not send mail or change it.</p>
+
+  <h2>How your data is protected</h2>
+  <ul>
+    <li><strong>Encryption in transit.</strong> Every connection Meridian makes, to Google, to iCloud and to the notification relay, uses HTTPS (TLS). Meridian sends your Google sign-in token only to Google's API servers (googleapis.com), never to any other host.</li>
+    <li><strong>Encryption at rest.</strong> Sign-in tokens are stored in the device Keychain, which the operating system encrypts. Cached mail, calendar and contacts stay in Meridian's own storage on your device, protected by the operating system's file encryption (Data Protection on iPhone, and FileVault on a Mac where it is turned on). Settings synced through iCloud are stored in your private iCloud database, which Apple encrypts and which the developer cannot read.</li>
+    <li><strong>Least privilege.</strong> Meridian requests only the permissions its features use. Parts of the app that only read (such as the iPhone new-mail notification extension) narrow their access to read-only permissions. Every request that changes your Gmail or Calendar must match a short fixed list of allowed actions; anything else, including permanent deletion and changes to settings, filters or forwarding, is refused by the app itself.</li>
+    <li><strong>No developer access to your Google data.</strong> Your mail, calendar events and contacts never pass through a server operated by the developer, so the developer has no copy of them and no way to access them.</li>
+    <li><strong>The notification relay.</strong> The relay holds only the minimum described above (email address, push token, platform and app version, and random identifiers), never message or event content and never your Google sign-in token. It accepts change notices only when they are signed by Google and is reachable only over HTTPS. Access to it is limited to the developer.</li>
+    <li><strong>Security review.</strong> Meridian's code and the relay are reviewed for security issues, and dependencies are kept up to date. If a security incident ever affected data held by the relay, affected users would be notified. To report a security issue, email the address below.</li>
+  </ul>
 
   <h2>What Meridian does not do</h2>
   <ul>
