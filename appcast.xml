@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.38</title>
+      <pubDate>Wed, 21 Oct 2026 04:48:03 GMT</pubDate>
+      <sparkle:version>590</sparkle:version>
+      <sparkle:shortVersionString>0.6.38</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;A cancelled event no longer sends you its reminder on iPhone. Replies and forwards now show in the conversation as soon as you press Send, and forwards stay in the thread you forwarded from, as they do in Gmail. Going back to an email no longer makes it jump, the cursor in recipient fields lines up with the names beside it, and replies to invites are logged so problems can be traced.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Release notes list every commit since the last release&lt;/li&gt;&lt;li&gt;Invite replies and error toasts are logged so a reply that doesn&amp;#x27;t stick can be traced&lt;/li&gt;&lt;li&gt;The caret in a recipient field lines up with the chips beside it&lt;/li&gt;&lt;li&gt;Going back to an email no longer makes it jump&lt;/li&gt;&lt;li&gt;A reply shows in its thread the moment you press Send, dimmed while the undo window runs and while it sends, then the sent message takes its place without anything moving&lt;/li&gt;&lt;li&gt;Plan for the archive (e) delay&lt;/li&gt;&lt;li&gt;A forward stays in the conversation you forwarded from, like Gmail web&lt;/li&gt;&lt;li&gt;A cancelled event no longer sends its reminder on iPhone&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.38/Meridian-0.6.38.dmg" type="application/octet-stream" length="10988161" sparkle:edSignature="GTW4okBdp4YlJDKKSb10QAsWib8PUFVyxH1NQn7Wr/PJmSSjYnkUm8Qh06ltsnIbnNWuawhwuN0yGHUowhnEBg==" />
+    </item>
+    <item>
       <title>0.6.37</title>
       <pubDate>Tue, 20 Oct 2026 22:39:12 GMT</pubDate>
       <sparkle:version>581</sparkle:version>
