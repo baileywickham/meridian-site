@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.41</title>
+      <pubDate>Thu, 22 Oct 2026 01:12:34 GMT</pubDate>
+      <sparkle:version>603</sparkle:version>
+      <sparkle:shortVersionString>0.6.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Tapping a new-mail notification from another account now switches Meridian to that account, so the inbox and the open email match instead of showing one account's list beside another's message.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Opening a new-mail notification for another account switches to that account&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.41/Meridian-0.6.41.dmg" type="application/octet-stream" length="11187849" sparkle:edSignature="a+jD0LXEZolOAZu1wrRH03LaraHAatdBJBj6T61FJEnt2rcl5/NsiIO8sk253hXwdr2ZOJrIYZ+J57gtN077CA==" />
+    </item>
+    <item>
       <title>0.6.40</title>
       <pubDate>Wed, 21 Oct 2026 21:03:47 GMT</pubDate>
       <sparkle:version>601</sparkle:version>
