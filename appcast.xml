@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.42</title>
+      <pubDate>Fri, 23 Oct 2026 01:13:33 GMT</pubDate>
+      <sparkle:version>612</sparkle:version>
+      <sparkle:shortVersionString>0.6.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;You can now attach files to mail: use the paperclip or drag files in on the Mac, or pick from Photos or Files on iPhone. A reply that's still waiting to send has its own Undo button, and replying to an unread thread marks it read once the reply goes out. Your own avatar now uses your own contact photo, the selected thread stays highlighted when the list re-sorts, quoted history in reply chains that include a calendar invite collapses again, and Outlook mail no longer shows faint grey text on a white box in dark mode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Your own account&amp;#x27;s avatar uses your own contact card&amp;#x27;s photo&lt;/li&gt;&lt;li&gt;Attach files to mail&lt;/li&gt;&lt;li&gt;The selected thread is highlighted when the list re-sorts as you open it&lt;/li&gt;&lt;li&gt;Note for the next session&lt;/li&gt;&lt;li&gt;A reply chain that quotes a Google invite collapses its quoted history again&lt;/li&gt;&lt;li&gt;A reply waiting out its undo window can be taken back from its dimmed card in the reader&lt;/li&gt;&lt;li&gt;Replying to an unread thread marks it read once the reply is sent&lt;/li&gt;&lt;li&gt;Outlook mail no longer shows faint grey text on a white box in dark mode&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.42/Meridian-0.6.42.dmg" type="application/octet-stream" length="11235116" sparkle:edSignature="YCyCNki3GlYGKKA57+QchWNrHuQwH45N0gf5x98nfGPvOhy4CpJ0xDvlBXMyQMwAehS+JYvE+6z0cl0pfVDYCw==" />
+    </item>
+    <item>
       <title>0.6.41</title>
       <pubDate>Thu, 22 Oct 2026 01:12:34 GMT</pubDate>
       <sparkle:version>603</sparkle:version>
