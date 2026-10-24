@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.47</title>
+      <pubDate>Sat, 24 Oct 2026 15:41:46 GMT</pubDate>
+      <sparkle:version>656</sparkle:version>
+      <sparkle:shortVersionString>0.6.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Pictures that travel inside an email now show where the sender put them, on Mac and iPhone: signature logos, pasted screenshots and the scans of your mail in USPS Informed Delivery used to appear as an Inline image placeholder. They load even with remote images off, since nothing leaves the message, and an image shown in the body no longer repeats as an attachment.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Inline images now show on Mac and iPhone&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.47/Meridian-0.6.47.dmg" type="application/octet-stream" length="18621366" sparkle:edSignature="tDlVseGFT2i4QGQ0gTs7jphzTt/zg0gbHXlwMCegLxoZdZz99HD8WSukEIGVI0wZHooyVpDY8wJSVwzhAsxXAw==" />
+    </item>
+    <item>
       <title>0.6.46</title>
       <pubDate>Sat, 24 Oct 2026 15:32:54 GMT</pubDate>
       <sparkle:version>654</sparkle:version>
