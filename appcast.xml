@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.44</title>
+      <pubDate>Sat, 24 Oct 2026 02:59:35 GMT</pubDate>
+      <sparkle:version>642</sparkle:version>
+      <sparkle:shortVersionString>0.6.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Summaries stay put when you quit and reopen Meridian: a thread from someone in your contacts no longer gets its summary written all over again, and an open thread no longer sits on Summarizing… after the app finishes starting up.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A thread&amp;#x27;s summary survives quitting and reopening instead of being written again or sitting on Summarizing…&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.44/Meridian-0.6.44.dmg" type="application/octet-stream" length="17827236" sparkle:edSignature="9iiq5c1K88KeNYyeg2MdC8HwZmSNEYrZI9lg4O/zqpq1omfcjXAEzhKHhLMOJ1XuCteY1hQGkCBIuhFk0BsXCg==" />
+    </item>
+    <item>
       <title>0.6.43</title>
       <pubDate>Sat, 24 Oct 2026 02:07:30 GMT</pubDate>
       <sparkle:version>640</sparkle:version>
