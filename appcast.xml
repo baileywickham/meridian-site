@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.43</title>
+      <pubDate>Sat, 24 Oct 2026 02:07:30 GMT</pubDate>
+      <sparkle:version>640</sparkle:version>
+      <sparkle:shortVersionString>0.6.43</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Meridian holds still: opening a thread, switching folders, refreshing and moving through mail no longer flash, jump or blink, and the calendar stops refetching and re-raising errors when one calendar fails. Summaries are written in the background when mail arrives, so a thread opens with its summary ready, and the mail agenda opens on its own only when the email has a date in it. iCloud Mail accounts (icloud.com, me.com, mac.com) can now be added alongside Gmail, with step-by-step help for making the app-specific password Apple requires. Settings fits on screen, picking an accent color repaints in place, sign-in, push and link handling are tighter, and invites for meetings that have already started leave To respond. On iPhone you can move a conversation to Trash, switching inbox tabs no longer slides rows around, the time grid ends cleanly at midnight, swiping between days no longer jumps, and the Lock Screen's inline widget opens the event.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.43/Meridian-0.6.43.dmg" type="application/octet-stream" length="17822036" sparkle:edSignature="Ame5wPAuvcs5ypLoNZQSAs8uxTJ8Csmi/E/H1O8JR9IJmN2DTMm6q7TfzKtftwjVCuPEkB2/ONvtBzDM1xljCA==" />
+    </item>
+    <item>
       <title>0.6.42</title>
       <pubDate>Fri, 23 Oct 2026 01:13:33 GMT</pubDate>
       <sparkle:version>612</sparkle:version>
