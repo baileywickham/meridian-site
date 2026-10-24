@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.45</title>
+      <pubDate>Sat, 24 Oct 2026 05:15:08 GMT</pubDate>
+      <sparkle:version>650</sparkle:version>
+      <sparkle:shortVersionString>0.6.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Five bigger changes this time, all of them reversible from Settings if you don't want them. An empty inbox is now a proper moment: the headline follows the time of day and the rest of today's calendar sits underneath it. The calendar's Today, arrows and Day/Week/Month controls float in a glass capsule over the grid, and the ⌘K palette is glass too (Appearance → Glass controls turns it off). An event's card briefs you before a meeting with when you last met the person and your recent conversations with the guests. Mail gains a Screener tab that holds first-time senders until you press y to allow or n to screen them out (Mail → Screener turns it off), and a Reply Later tray on l. And mail meets calendar: drag a conversation onto the agenda rail or the week grid to block time for it, and press S in the calendar to draw availability slots you can copy or insert into a reply.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Releases no longer fail when notarytool submit itself crashes&lt;/li&gt;&lt;li&gt;An empty inbox is now a designed moment instead of a generic placeholder&lt;/li&gt;&lt;li&gt;The calendar&amp;#x27;s Today, previous/next and Day/Week/Month controls now float in a Liquid Glass capsule over the bottom of the grid, Fantastical-style, and the ⌘K palette card is glass too, so the header gets shorter and content shows through the controls while labels stay legible over busy afternoons (the capsule is tinted toward the surface color, the grid and month view reserve room under it so the now line and late events never hide beneath it, and keyboard shortcuts are unchanged); Settings → Appearance → Glass controls turns it off and restores the matte header and palette exactly as before&lt;/li&gt;&lt;li&gt;An event&amp;#x27;s detail card now briefs you before the meeting&lt;/li&gt;&lt;li&gt;Mail gains a Screener and a Reply Later tray, both local-only with no Gmail writes&lt;/li&gt;&lt;li&gt;Mail and calendar now meet in two places&lt;/li&gt;&lt;li&gt;The iPhone app builds again and shows the new Screener tab with its waiting count, so conversations the Mac&amp;#x27;s Screener is holding are still reachable on the phone instead of disappearing from every inbox tab&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.45/Meridian-0.6.45.dmg" type="application/octet-stream" length="18210665" sparkle:edSignature="wvUKZT/MTw52OaPoDx0/8kwjhNPWJR6y4NaoTF0P3n52brg1srdzkqXfcfONVNk/Z2D43e3ZclJwtmeTQQCqCA==" />
+    </item>
+    <item>
       <title>0.6.44</title>
       <pubDate>Sat, 24 Oct 2026 02:59:35 GMT</pubDate>
       <sparkle:version>642</sparkle:version>
