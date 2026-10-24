@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.46</title>
+      <pubDate>Sat, 24 Oct 2026 15:32:54 GMT</pubDate>
+      <sparkle:version>654</sparkle:version>
+      <sparkle:shortVersionString>0.6.46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Two bigger pieces, both easy to switch off. A daily brief greets you the first time you open the Smart tab each day: what needs a reply, what you're waiting on, follow-ups due, today's meetings with a countdown to the first, and chips for new senders and conversations to reply later; close it for the day, bring it back with ⇧T or from the menu bar, and there's an optional morning notification under Settings → Mail. People is a new experimental mode, off by default under Settings → Flags: everyone you actually talk to, with last-talked dates, your history of conversations and meetings with each person, and keep-in-touch reminders that also show up in the brief.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A daily brief gathers the day in one place&lt;/li&gt;&lt;li&gt;People is a third mode beside Mail and Calendar (⌘3)&lt;/li&gt;&lt;li&gt;Settings gains a Flags pane for experimental features, and People now ships behind its flag, off by default&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.46/Meridian-0.6.46.dmg" type="application/octet-stream" length="18609700" sparkle:edSignature="GKI8cFjo6Rz/cMtRKKoWS7dcXRfhX9+gGaQWOhvHmG2rByODkis4N20U8+SQIDHLWWYe0UqQm1agIEsatbghBw==" />
+    </item>
+    <item>
       <title>0.6.45</title>
       <pubDate>Sat, 24 Oct 2026 05:15:08 GMT</pubDate>
       <sparkle:version>650</sparkle:version>
