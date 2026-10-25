@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.48</title>
+      <pubDate>Sun, 25 Oct 2026 19:47:55 GMT</pubDate>
+      <sparkle:version>667</sparkle:version>
+      <sparkle:shortVersionString>0.6.48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Split inbox tabs now count and list your whole inbox from the last 30 days, so a big unread backlog shows real numbers you can open and work through. The Screener and People mode are gone: new senders land in Important or Other again. The account switcher on Mac and the account menu on iPhone show each account's photo, the Lock Screen's inline Next Meeting widget fits events on other days again, and tapping Today twice in the iPhone's 3-day view no longer makes the grid jump. There's also a new experiment in Settings → Flags: Tasks, a third mode that keeps a plain-text todo list with reminders and a task from any email.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The iPhone Lock Screen&amp;#x27;s inline Next Meeting widget fits an event on another day again&lt;/li&gt;&lt;li&gt;The iPhone account menu shows each account&amp;#x27;s photo&lt;/li&gt;&lt;li&gt;The Mac account switcher&amp;#x27;s All accounts icon shows the accounts&amp;#x27; photos&lt;/li&gt;&lt;li&gt;The Screener and People mode are gone&lt;/li&gt;&lt;li&gt;Split inbox tab counts and lists now cover the whole inbox from the last 30 days instead of only the first 40 threads&lt;/li&gt;&lt;li&gt;Tapping Today twice in the iPhone&amp;#x27;s 3-day view no longer makes the grid jump back and forth&lt;/li&gt;&lt;li&gt;Tasks mode behind Settings → Flags → Tasks&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.48/Meridian-0.6.48.dmg" type="application/octet-stream" length="18852695" sparkle:edSignature="sb05aslQYruaMMDPeVeIBmh7+UEj7xqy7IP5uCDoE2S3Ob1bVrFEedr3kH55CaQRKuYg8QwUnJPGqP5MWVZ5DA==" />
+    </item>
+    <item>
       <title>0.6.47</title>
       <pubDate>Sat, 24 Oct 2026 15:41:46 GMT</pubDate>
       <sparkle:version>656</sparkle:version>
