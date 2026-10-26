@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.49</title>
+      <pubDate>Mon, 26 Oct 2026 00:59:32 GMT</pubDate>
+      <sparkle:version>671</sparkle:version>
+      <sparkle:shortVersionString>0.6.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The Smart inbox no longer reshuffles when you open Meridian: To respond and Waiting on come up as you left them, older inbox threads stay put instead of dropping out and coming back a few seconds later, and your unread, account and label counts show straight away instead of filling in. A thread now keeps its lane until it gets a new message, so a change to your contacts no longer moves mail you've already seen. Invitations to deleted or cancelled events no longer sit in To respond, and a reply you sent that ends in a link is no longer mistaken for one waiting on an answer.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dead code and checks that couldn&amp;#x27;t fail are gone&lt;/li&gt;&lt;li&gt;The smart inbox no longer reshuffles for a few seconds after launch&lt;/li&gt;&lt;li&gt;Smart inbox lanes are decided once per message and kept&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.49/Meridian-0.6.49.dmg" type="application/octet-stream" length="18910803" sparkle:edSignature="yJdPAviU/gGzGWOh/qIzz42pj6hLYoR3cMj3MiwlnuXeEH/qnkOMm/scHH94xdCA780neX5xkxH6VA2e4irCBA==" />
+    </item>
+    <item>
       <title>0.6.48</title>
       <pubDate>Sun, 25 Oct 2026 19:47:55 GMT</pubDate>
       <sparkle:version>667</sparkle:version>
