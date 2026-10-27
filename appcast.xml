@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.51</title>
+      <pubDate>Tue, 27 Oct 2026 18:28:42 GMT</pubDate>
+      <sparkle:version>701</sparkle:version>
+      <sparkle:shortVersionString>0.6.51</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Archiving and other mail actions no longer bounce back when Gmail is briefly over its per-minute limit: Meridian now paces its background syncing so it can't use up an account's Gmail allowance on its own, waits out the limit and tries your action again instead of putting the thread back, and logs how much each account uses so a spike can be traced. The mail agenda rail no longer shows a second, conflicting block for an invite that's already on your calendar, the iPhone inbox no longer shows a stale "Mail couldn't refresh" notice under a tall gray bar, and the iPhone app no longer crashes in the background while the phone is locked.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The iPhone inbox no longer greets you with a stale &amp;quot;Mail couldn&amp;#x27;t refresh&amp;quot; under a tall gray bar&lt;/li&gt;&lt;li&gt;The mail agenda rail no longer doubles an invite that&amp;#x27;s already on your calendar&lt;/li&gt;&lt;li&gt;The iPhone app no longer crashes in the background while the phone is locked&lt;/li&gt;&lt;li&gt;Archiving no longer bounces threads back when Gmail&amp;#x27;s per-minute quota runs out, and Meridian can&amp;#x27;t burn that quota on its own&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.51/Meridian-0.6.51.dmg" type="application/octet-stream" length="18888302" sparkle:edSignature="aP+tkmxDRA4G1uRjVa/3e5VucqU58dn8Q+oYyOXfbXj12LifgG7aDSo0cntPUHM8gNH7Bn6Zqqk2La7K1dYeBQ==" />
+    </item>
+    <item>
       <title>0.6.50</title>
       <pubDate>Tue, 27 Oct 2026 04:45:52 GMT</pubDate>
       <sparkle:version>696</sparkle:version>
