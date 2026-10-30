@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.52</title>
+      <pubDate>Fri, 30 Oct 2026 23:17:08 GMT</pubDate>
+      <sparkle:version>713</sparkle:version>
+      <sparkle:shortVersionString>0.6.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Mail can now be refreshed by hand on the Mac with the new refresh arrow beside search, ⌘R or Refresh mail in ⌘K, and iPhone pull to refresh no longer snaps back early. Meridian keeps well under Gmail's new, stricter per-minute quota and reads unopened mail for half the cost, so syncing and triage stop running into Google's limits. Moving through mail with J and K is smoother, the first thread you open after launch shows up faster, and switching Tasks lists or opening quick add no longer lags. Open in Calendar on an invite now opens the event in Meridian, a contact card's name can be selected and copied, server notifications turn on with a switch in Settings using your existing sign-in, and Help ▸ Record Performance Trace can capture a trace for troubleshooting.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A contact card&amp;#x27;s name and title line can be selected now&lt;/li&gt;&lt;li&gt;Open in Calendar on an invite email now opens the event in Meridian&amp;#x27;s own calendar, the same as the agenda rail&amp;#x27;s button, instead of sending you to Google Calendar in the browser; when Meridian doesn&amp;#x27;t have the event loaded, the button says Open in Google Calendar so you know it leaves the app&lt;/li&gt;&lt;li&gt;Server notifications run on the app&amp;#x27;s own Google sign-in instead of a second, personal Google client&lt;/li&gt;&lt;li&gt;With MERIDIAN_PERF_TRACE=1 the perf trace now says what the network costs while you read and triage&lt;/li&gt;&lt;li&gt;The perf trace works on the release app now, and a demo run can stand in for your real Gmail client&lt;/li&gt;&lt;li&gt;Tasks stop lagging when you switch lists or open quick add&lt;/li&gt;&lt;li&gt;Moving through mail with J and K no longer stops to scan long messages for dates, and the thread you open right after launch no longer waits behind the inbox&amp;#x27;s own fetches&lt;/li&gt;&lt;li&gt;Mail can be refreshed by hand on the Mac&lt;/li&gt;&lt;li&gt;Google&amp;#x27;s rate limits show up in the usage log&lt;/li&gt;&lt;li&gt;Meridian stops running through Gmail&amp;#x27;s per-minute quota&lt;/li&gt;&lt;li&gt;Reading mail you haven&amp;#x27;t opened costs half as much of Gmail&amp;#x27;s quota&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.52/Meridian-0.6.52.dmg" type="application/octet-stream" length="19376379" sparkle:edSignature="QwZEqLuKHRPnCNK2IrqRMiFW+3wfRy9kUkrxdGXD9E9kZaUcMz/lQ7akGdPXvjAYv5ZJhuXScAWERq/l4wuQBA==" />
+    </item>
+    <item>
       <title>0.6.51</title>
       <pubDate>Tue, 27 Oct 2026 18:28:42 GMT</pubDate>
       <sparkle:version>701</sparkle:version>
