@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.53</title>
+      <pubDate>Sat, 31 Oct 2026 05:09:27 GMT</pubDate>
+      <sparkle:version>718</sparkle:version>
+      <sparkle:shortVersionString>0.6.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Server notifications now turn on by themselves for accounts the server allows, so new-mail alerts arrive with the sender, subject and preview without finding a switch; turning them off in Settings is remembered across your devices. Mailboxes that were connected through the old notification sign-in go back to regular alerts until they reconnect instead of going quiet, and replying to an unread thread marks it read the moment you press Send.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Replying to an unread thread marks it read as soon as you press Send instead of once the undo window ends and the reply goes out, so it stops showing bold in the list while the send can still be undone, and undoing the reply leaves it read&lt;/li&gt;&lt;li&gt;DESIGN.md now holds the bar for a native, clean Mac app as well as the look&lt;/li&gt;&lt;li&gt;The push relay drops a stored token its Google client can&amp;#x27;t refresh at all, not only a revoked one&lt;/li&gt;&lt;li&gt;Server notifications turn on by themselves&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.53/Meridian-0.6.53.dmg" type="application/octet-stream" length="19349726" sparkle:edSignature="VeKzNdPm8pFLEcLIZpdt3amr8UjNtDQ6PJjEdDidS24fNS4C/R91ThIm4+gZg4eoK9VYTUhlNIKAlesedvKjAw==" />
+    </item>
+    <item>
       <title>0.6.52</title>
       <pubDate>Fri, 30 Oct 2026 23:17:08 GMT</pubDate>
       <sparkle:version>713</sparkle:version>
