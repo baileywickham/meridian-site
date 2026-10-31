@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.54</title>
+      <pubDate>Sat, 31 Oct 2026 05:28:47 GMT</pubDate>
+      <sparkle:version>723</sparkle:version>
+      <sparkle:shortVersionString>0.6.54</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Server notifications are simply on now: every account the server allows gets alerts with the sender, subject and preview from the moment you sign in, so Settings no longer has per-account switches or the long relay explanation. The mail list header no longer squeezes the folder name onto two lines in a narrow column; the Today button shrinks to its icon when space runs short. Section headers like Calendars, Up next and To respond use normal case like the Mac's own sidebars, and with Reduce Motion on, Meridian crossfades instead of dropping animations entirely.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meridian follows its new design rules more closely&lt;/li&gt;&lt;li&gt;The push relay logs Google&amp;#x27;s own error when it refuses a stored or offered token (invalid_grant, invalid_client or unauthorized_client and its description) instead of a bare &amp;#x27;refresh token revoked&amp;#x27;, so a refused /v1/connect says why&lt;/li&gt;&lt;li&gt;The mail list header stops crowding a narrow column&lt;/li&gt;&lt;li&gt;Settings drops the server notifications rows and the relay explanation on the Mac and iPhone&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.54/Meridian-0.6.54.dmg" type="application/octet-stream" length="19341260" sparkle:edSignature="IsKZshXEDzmkiw4wXj23nJefn5rK+NsxQ9JqEcWosaVXoLR4BMxqH7tfyikuwUd6SSQZj5hCGEIG0H5xyt+DDg==" />
+    </item>
+    <item>
       <title>0.6.53</title>
       <pubDate>Sat, 31 Oct 2026 05:09:27 GMT</pubDate>
       <sparkle:version>718</sparkle:version>
