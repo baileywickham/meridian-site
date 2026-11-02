@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.55</title>
+      <pubDate>Mon, 02 Nov 2026 04:23:14 GMT</pubDate>
+      <sparkle:version>727</sparkle:version>
+      <sparkle:shortVersionString>0.6.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Swiping between weeks or days no longer makes timed events jump when a day with more all-day events slides in, and dragging over the hour labels can't create or move an event onto a day you can't see. Mail fixes a handful of rough edges: the hover Done on another message no longer closes the reply you're writing, the first key you type into an open draft isn't lost, discarding a draft on the Mac can be undone, Hide agenda stays hidden until you show it again, and ⌘K from Settings opens a palette you can type in. On iPhone, the widget no longer gets throttled by iOS on every reload and the Lock Screen countdown still ticks.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Swiping the week or day grid no longer makes timed events jump when a day with more all-day events slides in&lt;/li&gt;&lt;li&gt;Seven UI bugs from a review pass are fixed&lt;/li&gt;&lt;li&gt;The iPhone widget no longer trips the CPU watchdog on every reload&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.55/Meridian-0.6.55.dmg" type="application/octet-stream" length="19378032" sparkle:edSignature="m/rRiXJsst+c2px3YTtE4vzvH2ToYebS4+HhYdoG3SuxKaXfmgN4HftUcqkvbBG3M2qH0/6TQxKBIwPHvNk1Cw==" />
+    </item>
+    <item>
       <title>0.6.54</title>
       <pubDate>Sat, 31 Oct 2026 05:28:47 GMT</pubDate>
       <sparkle:version>723</sparkle:version>
