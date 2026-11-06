@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.57</title>
+      <pubDate>Fri, 06 Nov 2026 04:17:34 GMT</pubDate>
+      <sparkle:version>755</sparkle:version>
+      <sparkle:shortVersionString>0.6.57</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;You can now mark a sender Always or Never Important, from a conversation's menu or ⌘K on the Mac and a long-press on iPhone, and that choice wins over every other signal, so a person Gmail keeps promoting can finally be demoted; review and remove these in Settings under Important senders. Searching mail is no longer several times slower while the background sync is running. On the calendar, the Slots button is now Availability, on A: dragging a free time copies it straight to the clipboard as one line per day, and the block no longer jumps when you let go.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The calendar&amp;#x27;s Slots button is now Availability (on A instead of S)&lt;/li&gt;&lt;li&gt;Searching mail while the background sync runs is no longer about three times slower&lt;/li&gt;&lt;li&gt;You can now mark a sender Always or Never Important (right-click a conversation, the reader&amp;#x27;s menus or ⌘K on Mac; long-press on iPhone; review and remove them in Settings → Important senders), where Gmail&amp;#x27;s own &amp;quot;never mark as important&amp;quot; couldn&amp;#x27;t demote a person&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.57/Meridian-0.6.57.dmg" type="application/octet-stream" length="19497420" sparkle:edSignature="UzeEDTbwX0TkzbYANRoQO7BLTTWO43kCLe6rIBbn73l6qq3wIhMd2T0hoGUoSZAdInpzWLebFQMG7hDUzAuuCg==" />
+    </item>
+    <item>
       <title>0.6.56</title>
       <pubDate>Thu, 05 Nov 2026 03:08:12 GMT</pubDate>
       <sparkle:version>751</sparkle:version>
