@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.58</title>
+      <pubDate>Fri, 06 Nov 2026 17:08:56 GMT</pubDate>
+      <sparkle:version>759</sparkle:version>
+      <sparkle:shortVersionString>0.6.58</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fidelity alerts and other mail that set its own dark-mode colours now read properly in dark mode, instead of showing an empty white card. A sparse inbox tab like Newsletters no longer sits on its loading row forever when one account fails to load more; it says it couldn't load and offers Try again. Undoing a reply on the Mac after archiving its thread now brings you back to that thread with the reply still open.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fidelity alerts in dark mode show their message again instead of an empty white card&lt;/li&gt;&lt;li&gt;A sparse inbox tab like Newsletters no longer sits on its loading row forever when one of your accounts fails past its first page (a rate limit, an expired sign-in, a dropped connection)&lt;/li&gt;&lt;li&gt;Undoing a reply on Mac after archiving its thread (or moving on with J/K) now goes back to that thread with the reply open, where it used to come back invisible, because a reply&amp;#x27;s composer only shows inside its own thread&amp;#x27;s reader&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.58/Meridian-0.6.58.dmg" type="application/octet-stream" length="19531154" sparkle:edSignature="flbpAB8O2Ezkzzl288aCGtsemGc5H7a+K8DL15RWIEjRgQo9nilK4m2VmgJV3XfPzt3T5n1XfHc4TfYzqmLaBw==" />
+    </item>
+    <item>
       <title>0.6.57</title>
       <pubDate>Fri, 06 Nov 2026 04:17:34 GMT</pubDate>
       <sparkle:version>755</sparkle:version>
