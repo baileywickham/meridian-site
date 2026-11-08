@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.59</title>
+      <pubDate>Sun, 08 Nov 2026 02:15:18 GMT</pubDate>
+      <sparkle:version>761</sparkle:version>
+      <sparkle:shortVersionString>0.6.59</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Moving through mail with J and K no longer waits on Gmail for threads you haven't opened: Meridian now fetches the bodies of the whole visible page in the background, from where you are outward in the direction you're moving, and fetches the neighbours of the selected thread all at once instead of one after another, while leaving enough of your Gmail quota free that the next thread is never queued behind the rest of the page.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;J and K on mail you haven&amp;#x27;t opened no longer wait on Gmail for the body&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.59/Meridian-0.6.59.dmg" type="application/octet-stream" length="19508385" sparkle:edSignature="CmHOJRoyf1PwEYxzPH+vZMN9jguYwhR/ED3cKKwqfkuNyeJr/sJbbN/gBOwttDehiDWubeafR4Cin8dfeD0QAQ==" />
+    </item>
+    <item>
       <title>0.6.58</title>
       <pubDate>Fri, 06 Nov 2026 17:08:56 GMT</pubDate>
       <sparkle:version>759</sparkle:version>
