@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.60</title>
+      <pubDate>Wed, 11 Nov 2026 17:43:57 GMT</pubDate>
+      <sparkle:version>765</sparkle:version>
+      <sparkle:shortVersionString>0.6.60</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Links in mail and events open right away again: Meridian no longer starts a second copy of Chrome on every click when Chrome is already on the right account's profile, which could take ten seconds or more. Moving through a mailbox you haven't opened with J and K no longer stalls waiting on Gmail, and each press is lighter on the app. Newsletters built with spacer images no longer open with screens of blank space between their lines.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;J and K through a cold mailbox no longer wait on Gmail, and each press costs about a third less main thread&lt;/li&gt;&lt;li&gt;Mail laid out with spacer images no longer opens with screens of empty space between its lines&lt;/li&gt;&lt;li&gt;Links in mail and events no longer sometimes take seconds to open&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.60/Meridian-0.6.60.dmg" type="application/octet-stream" length="19583309" sparkle:edSignature="xnfnFx0w9QMcqHk70GQ1PD5R/UoDFuM+YZbjpufILggLAhuOFSnhpDWsVA9ToipXYKMMshqsb02tHMr8Gv05BQ==" />
+    </item>
+    <item>
       <title>0.6.59</title>
       <pubDate>Sun, 08 Nov 2026 02:15:18 GMT</pubDate>
       <sparkle:version>761</sparkle:version>
