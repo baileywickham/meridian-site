@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.6.61</title>
+      <pubDate>Sat, 14 Nov 2026 16:15:09 GMT</pubDate>
+      <sparkle:version>770</sparkle:version>
+      <sparkle:shortVersionString>0.6.61</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The Mac composer now writes rich text: bold, italic, underline, strikethrough and links from the send bar or with ⌘B, ⌘I, ⌘U and ⇧⌘X, misspellings are underlined as you type, and the formatting is kept with your draft and sent as HTML. Mail with many remote images no longer flashes its header before the body appears: the body paints right away and the images stream in. Dragging the sidebar or the mail dividers is smooth again, and each J or K press is lighter, since the thread list, reader and agenda no longer rebuild on every press.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Mac composer now writes rich text with spell check&lt;/li&gt;&lt;li&gt;Dragging the sidebar or the mail dividers no longer stutters&lt;/li&gt;&lt;li&gt;The thread list, reader and agenda rail no longer re-run their bodies every time the root mail view re-evaluates&lt;/li&gt;&lt;li&gt;The reader no longer waits for a mail&amp;#x27;s remote images before it paints or measures a body, which was the header-first flash on the first pass through real mail&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.6.61/Meridian-0.6.61.dmg" type="application/octet-stream" length="19667624" sparkle:edSignature="fNos20NG9QS/7Q7tbjmRlzfuSpzLXdmg45qO0fLlkb5QDY9QUXQDf1YVc7CO6yJWQI7yAclm4pIvaSaP7nG6Dw==" />
+    </item>
+    <item>
       <title>0.6.60</title>
       <pubDate>Wed, 11 Nov 2026 17:43:57 GMT</pubDate>
       <sparkle:version>765</sparkle:version>
